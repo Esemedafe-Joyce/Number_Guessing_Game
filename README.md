@@ -46,4 +46,4 @@ The game uses a nested loop structure to manage the game state:
 The application is protected against `java.util.InputMismatchException`. If a user enters a string (e.g., "abc") instead of a number, the program utilizes `Scanner.hasNextInt()` to validate the input and `Scanner.next()` to clear the invalid buffer, ensuring a smooth user experience.
 
 ---
-Created with ❤️ by [Your Name]
+Created by ESEMEDAFE JOYCE
